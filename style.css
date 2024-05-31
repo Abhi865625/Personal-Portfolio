@@ -464,8 +464,8 @@ nav .fas {
 
 #tracker {
   position: fixed;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background-color: #83a706;
   mix-blend-mode: difference;
   border-radius: 50%;
