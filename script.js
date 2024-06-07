@@ -37,6 +37,7 @@ var sidemenu = document.getElementById("sidemenu");
           })
           .catch((error) => console.error("Error!", error.message));
       });
+
 const tracker = document.getElementById("tracker");
 
     document.addEventListener("mousemove", function (e) {
